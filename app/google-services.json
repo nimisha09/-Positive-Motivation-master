@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "385229673766",
+    "firebase_url": "https://positivemotivation-ab755.firebaseio.com",
+    "project_id": "positivemotivation-ab755",
+    "storage_bucket": "positivemotivation-ab755.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385229673766:android:9f368b8db67922ab",
+        "android_client_info": {
+          "package_name": "com.example.android.positivemotivation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385229673766-il966i2vpsolh0g0gpq1pgr782lhltj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.positivemotivation",
+            "certificate_hash": "44395243c5b34078ef084bf782d4fb5204a2e0f1"
+          }
+        },
+        {
+          "client_id": "385229673766-ua3218o8n89b979rv25csh3hq2b30rfr.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "385229673766-ua3218o8n89b979rv25csh3hq2b30rfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBrfGSqueiteoFSx8NpcxEDsp30mVR_mI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385229673766-ua3218o8n89b979rv25csh3hq2b30rfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
